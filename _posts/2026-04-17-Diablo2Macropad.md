@@ -21,7 +21,8 @@ Online Tools Used
 Files can be found here:
 https://github.com/jacksonhcnz/MakingAdventures/tree/main/assets/macropad
 
-![3D Printed Baseplate with microcontroller holder]({{ site.baseurl }}/assets/images/IMG_5779.JPG)
+<img src="/assets/images/IMG_5779.JPG" alt="3D Printed Baseplate with microcontroller holder">
+![3D Printed Baseplate with microcontroller holder](/assets/images/IMG_5779.JPG)
 ![showing the hadnwired switches](/assets/images/IMG_5781.JPG)
 ![partly assembled macropad](/assets/images/IMG_5782.JPG)
 ![set screw for palmrest adjustment](/assets/images/IMG_5785.JPG)
