@@ -24,8 +24,8 @@ Files can be found here:
 
 3D Printed Baseplate with microcontroller holder
 <img src="https://jacksonhcnz.github.io/MakingAdventures/assets/images/IMG_5779.JPG" alt="3D Printed Baseplate with microcontroller holder">
-Showing the hadnwired switches
-<img src="https://jacksonhcnz.github.io/MakingAdventures/assets/images/IMG_5781.JPG" alt="showing the hadnwired switches">
+Showing the handwired switches
+<img src="https://jacksonhcnz.github.io/MakingAdventures/assets/images/IMG_5781.JPG" alt="showing the handwired switches">
 Partly assembled macropad
 <img src="https://jacksonhcnz.github.io/MakingAdventures/assets/images/IMG_5782.JPG" alt="partly assembled macropad">
 Set screw for palmrest adjustment
