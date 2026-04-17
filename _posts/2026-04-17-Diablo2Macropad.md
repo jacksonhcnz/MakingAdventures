@@ -22,10 +22,16 @@ Online Tools Used
 Files can be found here:
 - [https://github.com/jacksonhcnz/MakingAdventures/tree/main/assets/macropad](https://github.com/jacksonhcnz/MakingAdventures/tree/main/assets/macropad)
 
+3D Printed Baseplate with microcontroller holder
 <img src="https://jacksonhcnz.github.io/MakingAdventures/assets/images/IMG_5779.JPG" alt="3D Printed Baseplate with microcontroller holder">
-<img src="/assets/images/IMG_5781.JPG" alt="showing the hadnwired switches">
-<img src="/assets/images/IMG_5782.JPG" alt="partly assembled macropad">
-<img src="/assets/images/IMG_5785.JPG" alt="set screw for palmrest adjustment">
-<img src="/assets/images/IMG_5788.JPG" alt="Layers of the macropad with nut and bolts">
-<img src="/assets/images/IMG_5791.JPG" alt="[macropad caddy">
+Showing the hadnwired switches
+<img src="https://jacksonhcnz.github.io/MakingAdventures/assets/images/IMG_5781.JPG" alt="showing the hadnwired switches">
+Partly assembled macropad
+<img src="https://jacksonhcnz.github.io/MakingAdventures/assets/images/IMG_5782.JPG" alt="partly assembled macropad">
+Set screw for palmrest adjustment
+<img src="https://jacksonhcnz.github.io/MakingAdventures/assets/images/IMG_5785.JPG" alt="set screw for palmrest adjustment">
+Layers of the macropad with nut and bolts
+<img src="https://jacksonhcnz.github.io/MakingAdventures/assets/images/IMG_5788.JPG" alt="Layers of the macropad with nut and bolts">
+Macropad caddy
+<img src="https://jacksonhcnz.github.io/MakingAdventures/assets/images/IMG_5791.JPG" alt="[macropad caddy">
 
