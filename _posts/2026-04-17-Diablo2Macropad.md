@@ -14,13 +14,13 @@ The caddy and palmrest are 3D printed PLA with a heat insert for it to be adjust
 I ended up replacing the acrylic base with a printed one that incorporated a holder for the micro controller.
 
 Online Tools Used
-- https://www.keyboard-layout-editor.com/ to create the layout.
-- http://builder.swillkb.com/ for the lazercut case.
-- https://www.tinkercad.com/ for the base layer, caddy, and palmrest.
+- [https://www.keyboard-layout-editor.com/](https://www.keyboard-layout-editor.com/) to create the layout.
+- [http://builder.swillkb.com/](http://builder.swillkb.com/) for the lazercut case.
+- [https://www.tinkercad.com/](https://www.tinkercad.com) for the base layer, caddy, and palmrest.
 - [ChatGPT](https://chatgpt.com/) To create the firmware
 
 Files can be found here:
-https://github.com/jacksonhcnz/MakingAdventures/tree/main/assets/macropad
+[https://github.com/jacksonhcnz/MakingAdventures/tree/main/assets/macropad](https://github.com/jacksonhcnz/MakingAdventures/tree/main/assets/macropad)
 
 <img src="/assets/images/IMG_5779.JPG" alt="3D Printed Baseplate with microcontroller holder">
 <img src="/assets/images/IMG_5781.JPG" alt="showing the hadnwired switches">
