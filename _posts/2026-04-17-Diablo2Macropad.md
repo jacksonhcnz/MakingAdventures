@@ -20,7 +20,7 @@ Online Tools Used
 - [ChatGPT](https://chatgpt.com/) To create the firmware
 
 Files can be found here:
-[https://github.com/jacksonhcnz/MakingAdventures/tree/main/assets/macropad](https://github.com/jacksonhcnz/MakingAdventures/tree/main/assets/macropad)
+- [https://github.com/jacksonhcnz/MakingAdventures/tree/main/assets/macropad](https://github.com/jacksonhcnz/MakingAdventures/tree/main/assets/macropad)
 
 <img src="/assets/images/IMG_5779.JPG" alt="3D Printed Baseplate with microcontroller holder">
 <img src="/assets/images/IMG_5781.JPG" alt="showing the hadnwired switches">
