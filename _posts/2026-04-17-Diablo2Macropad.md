@@ -19,7 +19,7 @@ Online Tools Used
 - https://www.tinkercad.com/ for the base layer, caddy, and palmrest.
 
 Files can be found here:
-[Link to files]({%https://github.com/jacksonhcnz/MakingAdventures/tree/main/assets/macropad%})
+https://github.com/jacksonhcnz/MakingAdventures/tree/main/assets/macropad
 
 ![3D Printed Baseplate with microcontroller holder](/assets/images/IMG_5779.JPG)
 ![showing the hadnwired switches](/assets/images/IMG_5781.JPG)
