@@ -16,7 +16,7 @@ I ended up replacing the acrylic base with a printed one that incorporated a hol
 Online Tools Used
 - [https://www.keyboard-layout-editor.com/](https://www.keyboard-layout-editor.com/) to create the layout.
 - [http://builder.swillkb.com/](http://builder.swillkb.com/) for the lazercut case.
-- [https://www.tinkercad.com/](https://www.tinkercad.com) for the base layer, caddy, and palmrest.
+- [https://www.tinkercad.com/](https://www.tinkercad.com) for the 3D printed parts: base layer, caddy, and palmrest.
 - [ChatGPT](https://chatgpt.com/) To create the firmware
 
 Files can be found here:
